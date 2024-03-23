@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rubiidev-18
-- ⚡ Unpopular fact: Sodium is an unpopular element.
+- ⚡ Fact: I have too many scratch mods
 
 <!---
 Rubiidev-18/Rubiidev-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
