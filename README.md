@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Github_alt-rubiidev18alt?style=for-the-badge&logo=github&logoColor=white&color=dodgerblue&link=github.com%2Frubiidev18alt)
-![Static Badge](https://img.shields.io/badge/My_Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&link=youtube.com/@Randi_MyMan)
+![Static Badge](https://img.shields.io/badge/My_Youtube-Randi-MyMan-red?style=for-the-badge&logo=youtube&logoColor=white&)
 # Info
 - 👋 Hi, I’m @Rubiidev-18
 - ⚡ Fact: I have too many scratch mods
